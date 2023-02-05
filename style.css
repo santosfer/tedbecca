@@ -1,0 +1,17 @@
+header {
+    background: linear-gradient(#f4dafa, #995ad8);
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10%;
+}
+
+.container:hover{
+    justify-content: space-around;
+}
+
+.img-header {
+    width: 25%;
+}
