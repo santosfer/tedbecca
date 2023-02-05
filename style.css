@@ -1,0 +1,18 @@
+header {
+    background-color: #FFF;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    padding: 8% 0;
+}
+
+.container:hover {
+    justify-content: space-around;
+}
+
+.img-header {
+    width: 20%;
+    height: 20%;
+}
