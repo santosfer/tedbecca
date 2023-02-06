@@ -10,6 +10,7 @@ header {
 
 .container:hover {
     justify-content: space-around;
+    transition: 2s;
 }
 
 .img-header {
