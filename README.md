@@ -1,10 +1,10 @@
 # TedBecca
 
-## 💻 Projeto
+## 💻 Project
 - [Visit the online project](https://santosfer.github.io/tedbecca/)
 
 > building a websiite based on the relashionship of Ted lasso and Rebecca Welton from Ted Lasso AppleTv+ series. 
-This was made in collaboration with my friend to teach her some basics about HTML and CSS.
+This was made in collaboration with my friend to teach her some basics about HTML and CSS and to train how GIT and Github works.
 
 ## 🚀 Tecnologies
 
