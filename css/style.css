@@ -14,6 +14,11 @@ header {
     transition: 2s;
 }
 
+<<<<<<< HEAD:css/style.css
+.img-header {
+    width: 25%;
+}
+=======
 .looking {
     width: 30%;
 }
@@ -85,3 +90,4 @@ header {
         transform: scale(0.9);
     }
 } */
+>>>>>>> 69b8e309fcc9a636a66d22e3c11124618de06adb:style.css
