@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: linear-gradient(90deg, rgb(0, 0, 255, 0.4), rgb(255, 0, 0, 0.4));
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.img-bg {
+    width: 200px;
+    height: 250px;
+}
+
+.img-bg:hover {
+    transform: scale(1.2);
+    transition: 2s;
+}
+
+#timer {
+    font-size: 2em;
+    font-weight: 100;
+    color: rgb(255, 255, 255);
+    margin: 32px;
+}
+
+h3 {
+    font-size: 2em;
+    color: rgb(255, 255, 255);
+}
