@@ -6,8 +6,8 @@ body {
 }
 
 .img-bg {
-    width: 200px;
-    height: 250px;
+    width: 300px;
+    height: 360px;
 }
 
 .img-bg:hover {
@@ -16,13 +16,18 @@ body {
 }
 
 #timer {
-    font-size: 2em;
+    font-size: 3em;
     font-weight: 100;
     color: rgb(255, 255, 255);
     margin: 32px;
 }
 
 h3 {
-    font-size: 2em;
+    font-size: 3em;
     color: rgb(255, 255, 255);
+}
+
+#timer a {
+    text-decoration: none;
+    color: rgb(103, 103, 238);
 }

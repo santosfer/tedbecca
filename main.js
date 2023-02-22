@@ -18,6 +18,6 @@ var x = setInterval(function () {
     var URL = 'https://tv.apple.com/br/show/ted-lasso/umc.cmc.vtoh0mn0xn7t3c643xqonfzy';
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("timer").innerHTML = 'You can enjoy on ' + apple.link(URL);
+        document.getElementById("timer").innerHTML = 'You can enjoy on Ted Lasso S3 on ' + apple.link(URL);
     }
 }, 1000);
