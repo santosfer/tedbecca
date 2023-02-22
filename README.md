@@ -1,15 +1,15 @@
 # TedBecca
 
 ## 💻 Project
-- [Visit the online project](https://santosfer.github.io/tedbecca/)
+- [Visit the online project](https://santosfer.github.io/tedlasso-countdown/)
 
-> building a websiite based on the relashionship of Ted lasso and Rebecca Welton from Ted Lasso AppleTv+ series. 
-This was made in collaboration with my friend to teach her some basics about HTML and CSS and to train how GIT and Github works.
+> building a countdown for Ted Lasso Season 3 for Ted Lasso AppleTv+ series.
 
 ## 🚀 Tecnologies
 
 Used tecnologies in this project:
 
+- JavaScript
 - HTML5 e CSS3
 - VSCode
 - Git e Github
