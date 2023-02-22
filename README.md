@@ -1,4 +1,4 @@
-# TedBecca
+# Ted Lasso Season 3 countdown 
 
 ## 💻 Project
 - [Visit the online project](https://santosfer.github.io/tedlasso-countdown/)
