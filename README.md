@@ -5,7 +5,7 @@
 
 > building a countdown for Ted Lasso Season 3 for Ted Lasso AppleTv+ series.
 
-<img src="./imagens/readme.png">
+<img src="./imagens/readme.png" width="500px" heith="500px">
 
 Using JavaScript to make a simple countdown page for the next Ted Lasso season, which will air March 15th, 2023. When the set date comes, the countdown will change to a message with a link to go to the AppleTv+ page.
 
