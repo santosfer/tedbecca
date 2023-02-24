@@ -1,7 +1,7 @@
 # Ted Lasso Season 3 countdown 
 
 ## 💻 Project
-- [Visit the online project](https://santosfer.github.io/tedlasso-countdown/)
+- [Visit the online project](https://https://tedlasso-countdown.vercel.app/)
 
 > building a countdown for Ted Lasso Season 3 for Ted Lasso AppleTv+ series.
 
